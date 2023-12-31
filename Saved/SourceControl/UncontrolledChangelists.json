@@ -11,7 +11,8 @@
 				"C:/Unreal/FPSUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/RR/UEYDQ3GSRWEVN1SUU1FNPD.uasset",
 				"C:/Unreal/FPSUnreal/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
 				"C:/Unreal/FPSUnreal/Content/FirstPerson/Blueprints/WBP_UI.uasset",
-				"C:/Unreal/FPSUnreal/Content/FirstPerson/Maps/FirstPersonMap.umap"
+				"C:/Unreal/FPSUnreal/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Unreal/FPSUnreal/Content/FirstPerson/Blueprints/WBP_EndGameUI.uasset"
 			]
 		}
 	]
